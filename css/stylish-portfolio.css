@@ -1,0 +1,317 @@
+<html lang="en"><head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Stylish Portfolio - Start Bootstrap Theme</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+    <nav id="sidebar-wrapper" class="">
+        <ul class="sidebar-nav">
+            <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
+            <li class="sidebar-brand">
+                <a href="#top">Navigation</a>
+            </li>
+            <li>
+                <a href="#top">Home</a>
+            </li>
+            <li>
+                <a href="#about">About</a>
+            </li>
+            <li>
+                <a href="#services">Order</a>
+            </li>
+            <li>
+                <a href="#portfolio">Menu</a>
+            </li>
+            <li>
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Header -->
+    <header id="top" class="header">
+        <div class="text-vertical-center">
+            <h1>Welcome to Portelli's Joe and Dough!</h1>
+            <h3>Stop In, Call up, Order online </h3>
+            <br>
+            <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+        </div>
+    </header>
+
+    <!-- About -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>The History of Portelli's Joe and Dough</h2>
+                    <p class="lead"> 
+						Portelli's Joe N Dough was founded in January of 2013 at 66 Central Avenue. 66 Central was once home to a legendary Albany hot dog spot open 24 hours around the clock for over half a century. All the cops and cabbies and blue collar Albany residents would pack the place, morning, noon, and night. Cops and cabbies always got free coffee. The walls were permanently yellow from all the decades of grease and cigarette smoke, and there were nasty old cobwebs in the corners. The hot dog spot had 17 seats and a take-out window, and tough old Irish women would work 12 hour shifts one at a time servicing hundreds of people. One old lady would dish out dozens of egg sandwiches and hundreds of hot dogs to customers, as well as manage the window where school bus drivers would line up at all up the avenue at 4am before beginning their route, running up to the window to grab coffee. Shelly was the most famous, frying egg sandwiches cursing like a sailor while smoking a cigarette out of the corner of her mouth. All the old ladies lived upstairs on the second floor.<br><br>
+
+The name of this incredibly unique and somewhat famous place was called Johnny's hotdogs. It was open from the 1950s until 2004. Johnny eventually died, and his wife was getting old. She decided to sell the business and move some place warm, so she sold 66 Central to a man named Bobby who owned a bar down the block, as well as a car dealership and a bunch of real estate. Bobby fired the old ladies, had the walls painted over, the place scrubbed clean, and took over. He had a cook at the grill, a pretty young waitress mined the counter, a dishwasher in the back, and he would sometimes do the register himself. Slowly but surely, people stopped coming. They liked the toothless old ladies and cobwebs in the corners. Shelly would do a twelve hour shift all by herself, ending each shift with the finale rush of post bar patrons at 4am every morning, dealing with hundreds of people throughout her shift. Four people now would be in the restaurant when Bobby took over and Bobby's team would scramble to put together an egg sandwich. Eventually Bobby realized he could make more money leasing it than running it. He leased the once profitable business to a friend and politically connected investor for over two grand a month, and things got even worse. The new business owner had the takeout window removed. People would come in to order food and they would be out of burgers and coffee. The old hot dog roller famous in Johnny's for decades broke. The place fell into disrepair. The investor went out of business in under six months. After him 66 Central saw things decline more and more. Every six months a chef or a business major with a lot of money and big dreams would come in, for a little less rent than before. Bobby would mesmerize them with tales of Johnny's, and they would take over the building and try to recreate the dream of Johnny's hot dogs. And every time they would fail. Then in January 2013 a 22 year old Albany native named Alex Portelli took over. Alex's education was not impressive; he went to the rough Albany High School and fell out of the school system at 14, let down by the Albany Public Schools. He went to work at his first restaurant at 15, and then by 16 was working full time in delis and restaurants around the city. When Alex took over 66 Central he called it Portelli's Joe N Dough Cafe. He was given six months by the critics and locals alike. 'Nobody lasts there longer than six months' they would say.<br><br>
+
+The first thing Alex did was evaluate was wrong. Central Avenue had changed a lot since Johnny's; what was once a free and vibrant blue collar neighborhood had become poor and impoverished, and the city of Albany became more business unfriendly with every year. Parking meters discouraged potential shoppers from coming down to the avenue. Red tape and excessive city permits caused many wealthy business owners to take their money out of Albany and reinvest in neighboring suburbs and cities. High property taxes caused landlords to raise rent across the neighborhood and people didn't have spending money like the days of Johnny's hotdogs.
+It was going to be a hard fix. So the first thing Alex did was decide to force people to eat there. He opened at 6pm every night when the meters closed, and was open until 5am, an hour after the bars closed. By 2am he was the only place with decent food opened for hours around. On top of the odd hours, he went into the Joe N Dough with a customer happiness mindset, asking every customer what THEY wanted to see in the Joe N Dough. He constantly sought the best bread, the best local meat, the best spices and recipes, the most desired but unique menu items. And then there were the doughnuts. Joe N Dough made the region's only fried cake specialty doughnuts. There were Nutella doughnuts and bailey's doughnuts and Reeses doughnuts and vanilla and almond and pistachio doughnuts. HE would fry the doughnuts fresh to order, and make the glazes in front of you.
+But the greatest creation at Portelli's was the Stoner Burger; the peanut butter bacon cheddar cheeseburger, with buffalo fries and homemade blue cheese dressing. The fries, burgers, and sauces all made on location from scratch. The Stoner Burger became a staple in Albany. Every bit of money Joe N Dough made he put back into the business. Other businesses in the city started to take notice and began copying him. Some even opened food locations attempting to use money to replicate his model, hoping to put him out of business and steal the ideas. But like Bobby with Johnny's, they never realized that Alex added something that no store could sell to his cooking: love. Portelli's Joe N Dough Cafe became an overnight sensation.<br><br>
+
+He bought an ATM Machine and set the surcharge to $0.99 with $10 bills, making it the most convenient ATM down town. He bought a soft serve ice cream machine and sought out the best, highest quality soft serve ice cream to fill his machine with. The place would be packed every night like Johnny's and he would give cabbies free coffee every night, just like Johnny's. He decorated the walls with the customers that made Joe N Dough Cafe what it was, and played the best movies every night. He carried the greatest chocolate milk in the country. He constantly advocated for the local merchants and poor residents of down town Albany. The poor residents and small shop keepers of Central Ave petitioned the city to remove the parking meters, which were non-existent in the wealthy down town neighborhoods or suburban commercial avenues of Albany. The wealthy residents fought back, questioning why Central Ave wanted no meters and criticizing Alex for working the neighborhood up. As the City he grew up in continued to decline and his childhood friends continued to leave Albany, Alex grew tired of fighting with the old wealthy Albany residents who he felt continued to put Central Ave down. After sixteen months of owning Joe N Dough Cafe, breaking the curse of Johnny's hotdogs and making 66 Central Avenue one of the most popular late night spots in upstate New York, he decided to sell the business to a rich local investor and move on with his life. The rich investor fired Alex's 19 year old general manager, brought in a highly trained and educated chef, and cleaned the place up completely. New walls, new lighting, new equipment. He reinvented the menu to include eastern European salads and set to open for lunches. He renamed Joe N Dough Cafe, calling it the Munch Pit. The Munch Pit was open for less than six months.<br><br>
+
+Alex traveled for the next six months, but he felt empty selling the Joe N Dough. He spent time in the Rocky Mountains, and then the Caribbean before settling in New England. He started a web company and another business, but it wasn't the same. Then he received a call from Bobby; The Munch Pit was out of business. Would he come back and take 66 Central over? After considering it for a few weeks Alex decided he would return. He shortened Portelli's Joe N Dough Cafe down to Portelli's Joe N Dough. He streamlined the menu and brought the skills and experiences from traveling across America with him to incorporate the best into the new Joe N Dough. He brought his old (but young in age) manager Nick back and he put everything back together. In three weeks of getting the keys, he was open. And in three weeks of being open, it was more successful than ever. And that's the story of Portelli's Joe N Dough at 66 Central Ave, open when the meters close and where they make everything with love.<br><br>
+
+
+					</p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+
+    <!-- Services -->
+    <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+    <section id="services" class="services bg-primary">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <h2>Our Services</h2>
+                    <hr class="small">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-cloud fa-stack-1x text-primary"></i>
+                            </span>
+                                <h4>
+                                    <strong>Service Name</strong>
+                                </h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <a href="#" class="btn btn-light">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-compass fa-stack-1x text-primary"></i>
+                            </span>
+                                <h4>
+                                    <strong>Service Name</strong>
+                                </h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <a href="#" class="btn btn-light">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-flask fa-stack-1x text-primary"></i>
+                            </span>
+                                <h4>
+                                    <strong>Service Name</strong>
+                                </h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <a href="#" class="btn btn-light">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                            </span>
+                                <h4>
+                                    <strong>Service Name</strong>
+                                </h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <a href="#" class="btn btn-light">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.row (nested) -->
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+
+    <!-- Callout -->
+    <aside class="callout">
+        <div class="text-vertical-center">
+            <h1>NOW ACCEPTING APPLICATIONS FOR EMPLOYMENT!</h1>
+        </div>
+    </aside>
+
+    <!-- Portfolio -->
+    <section id="portfolio" class="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h2>Our Work</h2>
+                    <hr class="small">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="portfolio-item">
+                                <a href="#">
+                                    <img class="img-portfolio img-responsive" src="img/portfolio-1.jpg">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="portfolio-item">
+                                <a href="#">
+                                    <img class="img-portfolio img-responsive" src="img/portfolio-2.jpg">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="portfolio-item">
+                                <a href="#">
+                                    <img class="img-portfolio img-responsive" src="img/portfolio-3.jpg">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="portfolio-item">
+                                <a href="#">
+                                    <img class="img-portfolio img-responsive" src="img/portfolio-4.jpg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.row (nested) -->
+                    <a href="#" class="btn btn-dark">View More Items</a>
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+
+    <!-- Call to Action -->
+    <aside class="call-to-action bg-primary">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3>The buttons below are impossible to resist.</h3>
+                    <a href="#" class="btn btn-lg btn-light">Click Me!</a>
+                    <a href="#" class="btn btn-lg btn-dark">Look at Me!</a>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Map -->
+    <section id="contact" class="map">
+        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+        <br>
+        <small>
+            <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
+        </small>
+        
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h4><strong>Start Bootstrap</strong>
+                    </h4>
+                    <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                    <ul class="list-unstyled">
+                        <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
+                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">name@example.com</a>
+                        </li>
+                    </ul>
+                    <br>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
+                        </li>
+                    </ul>
+                    <hr class="small">
+                    <p class="text-muted">Copyright © Your Website 2014</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script>
+    // Closes the sidebar menu
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Opens the sidebar menu
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+
+
+
+
+</body></html>
